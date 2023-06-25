@@ -1,5 +1,8 @@
 # Vue.jsを使用して電卓のミニアプリを作成してみる
 
+## ミニアプリ詳細
+[![Image from Gyazo](https://i.gyazo.com/b10ace61beb1e95ac329b1ba28167faf.gif)](https://gyazo.com/b10ace61beb1e95ac329b1ba28167faf)
+
 ## 数字を表示するエリア、数字・演算子のボタンを実装する
 
 - Vueインスタンスのdataにcountを用意し、その内容を電卓画面に表示する
